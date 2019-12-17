@@ -6,11 +6,11 @@ The source tree has 4 sub-directory.
 As the name shows, you can use one for the type of your network connection.
 
 
-* Feature
+## Feature
 - The device connects to the local network and send the temperature-humidity data to the mysql server.
 - The device itselfs works as web-server and shows the temperature-humidity information through the web-page
 - The date/time information are syncted to timer server and updated repeatedly.
 - The device has OLED (64x48) and shows the information such as date/time, temperature/humidity and ip address of the device.
 
-* 3D design file is accessible at tinkercad.
+## 3D design file is accessible at tinkercad.
 - https://www.tinkercad.com/things/d1Y03uMj6P0 
