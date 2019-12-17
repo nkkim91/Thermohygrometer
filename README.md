@@ -5,7 +5,11 @@ The source tree has 4 sub-directory.
 3 are using DHT11 temperature-humidity sensor and the last one is using SHT30 temperature-humidity sensor.
 As the name shows, you can use one for the type of your network connection.
 
-<a> <img alt="Pic" src="https://github.com/nkkim91/Thermohygrometer/blob/master/pictures/Thermohygrometer1.JPG" width=640> </a>
+<a> <img src="https://github.com/nkkim91/Thermohygrometer/blob/master/pictures/Thermohygrometer1.JPG" width=320> </a>
+<a> <img src="https://github.com/nkkim91/Thermohygrometer/blob/master/pictures/Thermohygrometer2.JPG" width=320> </a>
+<a> <img src="https://github.com/nkkim91/Thermohygrometer/blob/master/pictures/Thermohygrometer3.JPG" width=320> </a>
+<a> <img src="https://github.com/nkkim91/Thermohygrometer/blob/master/pictures/Thermohygrometer4.JPG" width=320> </a>
+<a> <img src="https://github.com/nkkim91/Thermohygrometer/blob/master/pictures/Thermohygrometer5.JPG" width=320> </a>
 
 
 ## Feature
