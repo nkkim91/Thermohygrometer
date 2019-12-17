@@ -12,11 +12,11 @@ As the name shows, you can use one for the type of your network connection.
 <a> <img src="https://github.com/nkkim91/Thermohygrometer/blob/master/pictures/Thermohygrometer5.JPG" width=320> </a>
 
 ## H/W Parts
-- <a href=https://www.aliexpress.com/item/32534235492.html?spm=a2g0s.9042311.0.0.27424c4d8OffY5>DHT11 temperature/humidity sensor</a>
-- <a href=https://www.aliexpress.com/item/33014223247.html?spm=a2g0o.productlist.0.0.595e1cdaaRN8tE&algo_pvid=b217e640-2794-4995-9487-2ca4cb381aa9&algo_expid=b217e640-2794-4995-9487-2ca4cb381aa9-48&btsid=0661026f-0b58-4375-9b2e-b1395b5d72f1&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_53>SHT30 temperature/humidity sensor</a>
-- <a href=https://www.aliexpress.com/item/32627787079.html?spm=a2g0s.9042311.0.0.27424c4d8OffY5>OLED (64x48)</a>
-- <a href=https://www.aliexpress.com/item/33040708716.html?spm=a2g0o.productlist.0.0.595e1cdaaRN8tE&algo_pvid=b217e640-2794-4995-9487-2ca4cb381aa9&algo_expid=b217e640-2794-4995-9487-2ca4cb381aa9-51&btsid=0661026f-0b58-4375-9b2e-b1395b5d72f1&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_53>Wemos d1 mini</a>
-- <a href=https://www.aliexpress.com/item/32807833164.html?spm=a2g0s.9042311.0.0.27424c4d8OffY5>Wemos d1 mini triple base<a>
+- [DHT11 temperature/humidity sensor](https://www.aliexpress.com/item/32534235492.html?spm=a2g0s.9042311.0.0.27424c4d8OffY5)
+- [SHT30 temperature/humidity sensor](https://www.aliexpress.com/item/33014223247.html?spm=a2g0o.productlist.0.0.595e1cdaaRN8tE&algo_pvid=b217e640-2794-4995-9487-2ca4cb381aa9&algo_expid=b217e640-2794-4995-9487-2ca4cb381aa9-48&btsid=0661026f-0b58-4375-9b2e-b1395b5d72f1&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_53)
+- [OLED (64x48)](https://www.aliexpress.com/item/32627787079.html?spm=a2g0s.9042311.0.0.27424c4d8OffY5)
+- [Wemos d1 mini](https://www.aliexpress.com/item/33040708716.html?spm=a2g0o.productlist.0.0.595e1cdaaRN8tE&algo_pvid=b217e640-2794-4995-9487-2ca4cb381aa9&algo_expid=b217e640-2794-4995-9487-2ca4cb381aa9-51&btsid=0661026f-0b58-4375-9b2e-b1395b5d72f1&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_53)
+- [Wemos d1 mini triple base](https://www.aliexpress.com/item/32807833164.html?spm=a2g0s.9042311.0.0.27424c4d8OffY5)
 
 ## Feature
 - The device connects to the local network and send the temperature-humidity data to the mysql server.
